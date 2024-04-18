@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @RISHAV983
-- 👀 I’m interested in Software Engineering
+- 👀 I’m interested in Software Engineering and its fun 
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...Instagram
+- 📫 How to reach me ...Facebook
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
