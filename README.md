@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RISHAV983
-- 👀 I’m interested in Software Engineering and its fun 
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in Web development its fun 
+- 🌱 I’m currently learning HTML
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...Facebook
 - 😄 Pronouns: ...
