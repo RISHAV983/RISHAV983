@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RISHAV983
-- 👀 I’m interested in Web development its fun 
-- 🌱 I’m currently learning HTML
+- 👀 I’m interested in Frontend dev & Web development its fun 
+- 🌱 I’m currently learning HTML,CSS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...Facebook
 - 😄 Pronouns: ...
